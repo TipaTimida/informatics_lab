@@ -1,0 +1,1 @@
+Il segmento di somma massima di A è: 9
